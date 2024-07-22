@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atharvabhattad
 - 👀 I’m interested in Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning Natuaral Language Processing 
+- 🌱 I’m currently learning Natural Language Processing 
 - 💞️ I’m looking to collaborate on Real World Deep Learning Problem Statements
 - 📫 How to reach me atharvabhattad3@gmail.com
 - 😄 Pronouns: He
